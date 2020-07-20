@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode
+
+# Mac
+.DS_Store
+
+# Python
+*venv/
+*.pyc
