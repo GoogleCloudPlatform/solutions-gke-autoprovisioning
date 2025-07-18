@@ -1,6 +1,6 @@
 module pi
 
-go 1.18
+go 1.23.0
 
 require cloud.google.com/go/storage v1.22.1
 
@@ -10,13 +10,13 @@ require (
 	cloud.google.com/go/iam v0.3.0 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/google/go-cmp v0.5.7 // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/uuid v1.1.2 // indirect
 	github.com/googleapis/gax-go/v2 v2.3.0 // indirect
 	github.com/googleapis/go-type-adapters v1.0.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
